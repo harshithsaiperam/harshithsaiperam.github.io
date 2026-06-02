@@ -4,7 +4,7 @@ export const portfolio = {
   location: "Seattle, WA",
   email: "harshithsaiii98@gmail.com",
   socials: [
-    { label: "GitHub", href: "https://github.com/Hperam" },
+    { label: "GitHub", href: "https://github.com/harshithsaiperam" },
     {
       label: "LinkedIn",
       href: "https://www.linkedin.com/in/harshith-sai-peram-aa3b73138/"
@@ -79,7 +79,7 @@ export const portfolio = {
         "Demonstrates end-to-end product engineering, secure session-scoped API usage, grounded recommendation design, and strong UI judgment inside a static-hosted environment.",
       links: [
         { label: "Open Live Demo", href: "/commerce-copilot/", target: "_blank" },
-        { label: "View Source", href: "https://github.com/Hperam/incident-copilot-api" }
+        { label: "View Source", href: "https://github.com/harshithsaiperam/incident-copilot-api" }
       ]
     },
     {
@@ -93,7 +93,7 @@ export const portfolio = {
       result:
         "Algorithmic depth (inverted index, TF-IDF), systems thinking (pluggable storage, thread safety), and production habits (Flyway, Testcontainers, JMH).",
       links: [
-        { label: "View Source", href: "https://github.com/Hperam/search-service" }
+        { label: "View Source", href: "https://github.com/harshithsaiperam/search-service" }
       ]
     },
     {
@@ -107,7 +107,7 @@ export const portfolio = {
       result:
         "Demonstrates distributed systems depth: reliable messaging without 2PC, saga choreography, idempotent consumer patterns, and multi-service Testcontainers testing.",
       links: [
-        { label: "View Source", href: "https://github.com/Hperam/order-pipeline" }
+        { label: "View Source", href: "https://github.com/harshithsaiperam/order-pipeline" }
       ]
     },
     {
@@ -121,7 +121,7 @@ export const portfolio = {
       result:
         "Pluggable, production-ready rate limiting. Three algorithms in one library with atomic Redis operations preventing race conditions under concurrent load.",
       links: [
-        { label: "View Source", href: "https://github.com/Hperam/rate-limiter" }
+        { label: "View Source", href: "https://github.com/harshithsaiperam/rate-limiter" }
       ]
     },
     {
@@ -135,7 +135,7 @@ export const portfolio = {
       result:
         "Purpose-built offline feature store that solves label leakage at the data layer. DuckDB columnar scans make training dataset generation significantly faster than row-oriented alternatives.",
       links: [
-        { label: "View Source", href: "https://github.com/Hperam/feature-store" }
+        { label: "View Source", href: "https://github.com/harshithsaiperam/feature-store" }
       ]
     },
     {
@@ -149,7 +149,7 @@ export const portfolio = {
       result:
         "O(log N) rank operations via Redis ZREVRANK. WebSocket push eliminates polling. Clean separation between real-time leaderboard (Redis) and persistent history (PostgreSQL).",
       links: [
-        { label: "View Source", href: "https://github.com/Hperam/leaderboard-api" }
+        { label: "View Source", href: "https://github.com/harshithsaiperam/leaderboard-api" }
       ]
     },
     {
@@ -163,7 +163,7 @@ export const portfolio = {
       result:
         "Lightweight phishing detection without external APIs. Redis SHA-256 keyed caching avoids redundant fetches. Risk score and redirect chain exposed in a single API response.",
       links: [
-        { label: "View Source", href: "https://github.com/Hperam/url-intelligence" }
+        { label: "View Source", href: "https://github.com/harshithsaiperam/url-intelligence" }
       ]
     }
   ],
